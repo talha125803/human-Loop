@@ -1,12 +1,10 @@
-# Flutter build artifacts
+# Flutter build artifacts (keep build/web for deployment)
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
 .pub-cache/
 .pub/
-build/
-!build/web/
 
 # IDE
 .idea/
@@ -19,7 +17,7 @@ build/
 .DS_Store
 Thumbs.db
 
-# Source code (only deploy built web)
+# Source code (not needed for deployment)
 lib/
 test/
 android/
@@ -28,6 +26,5 @@ linux/
 macos/
 windows/
 
-# Documentation
-*.md
-!README.md
+# Documentation (keep README)
+EXAMPLE_TASKS.md
