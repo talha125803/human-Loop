@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 What is Humanity Loop? 
+## 🎯 What is Humanity Loop?
 
 Humanity Loop is a mobile game where you complete **real-world tasks** that improve:
 
