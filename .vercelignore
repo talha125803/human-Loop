@@ -1,0 +1,33 @@
+# Flutter build artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+!build/web/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Source code (only deploy built web)
+lib/
+test/
+android/
+ios/
+linux/
+macos/
+windows/
+
+# Documentation
+*.md
+!README.md
